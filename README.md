@@ -1,5 +1,5 @@
-# InstagramCloneAPI
-An API which take request for uploading posts to a groups on platform and displaying posts under different conditions
+# miniScocialMediaAPI
+An API which take request for uploading posts to different groups on a platform and displaying posts under different conditions
 #requests/API endpoints with required data
 for endpoint  /api/v1/users  ->
 GET - all the users
